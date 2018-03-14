@@ -1,2 +1,2 @@
-# Open1
+# Open project
 Open1
