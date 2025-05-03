@@ -1,8 +1,8 @@
 param (
-    [string]$resourceGroup = "SecureApiRG",
-    [string]$location = "westeurope",
-    [string]$appName = "secureapihans$([System.Guid]::NewGuid().ToString().Substring(0, 8))",
-    [string]$appServicePlan = "SecureApiPlan",
+    [string]$resourceGroup = "rgFree",
+    [string]$location = "NorthEurope",
+    [string]$appName = "MySecureApi,
+    [string]$appServicePlan = "ASP-rgFree-8a51",
     [string]$publishFolder = ".\publish"
 )
 
