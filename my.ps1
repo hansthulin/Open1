@@ -1,7 +1,7 @@
 param (
     [string]$resourceGroup = "rgFree",
     [string]$location = "NorthEurope",
-    [string]$appName = "MySecureApi,
+    [string]$appName = "MySecureApi",
     [string]$appServicePlan = "ASP-rgFree-8a51",
     [string]$publishFolder = ".\publish"
 )
